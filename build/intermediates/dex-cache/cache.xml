@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_16049905299be30e1f9ece0cd607522fc1350a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_5d6f1b510e7e0f8fdc64ac2b7777a00950f86d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7a37a3431c8b1bfef5c142fb0d285f960e36f9e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_012422bf2be519392a67edfe45d6d923e26981f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\3.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="50edbe486cc0c5b0be647296124320e626157b3b">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.wdullaer-materialdatetimepicker-3.0.0_53989ff263197911054a6f37586fffceee65e54a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_967e0bfdd6a3838559d56f7379fab77047236801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_146e484d8ce0d7d38e9f5367d89c091200b85b30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha9_1e19600385b39c5cf1f70fd9ce339ae0eaca73f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_539c5b5924bfe8fbf34451e8e9ff4d2b5f203317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="34146edafc26491721d4c762d24e503e9ec1272c">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\instant-run_8e11ea9794c43a2ae74cb92839f3663c48f365f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_e19a0d35cfd7038fbb54df3c05b329ec30dbc9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_518ae20cacc39948d2940617be8bef684d556fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_91bfc1f9c16368ceedc971347eb080d7499e20cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_00d91460ad4178d26d72bd06f73dcfd20d6eb65c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_65715c945ce704d1afb1d93f348c3d65dab7e585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_aa818eba81932c6fc1c6ee7d29e42085e37a5b61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_929958c75f242a7338df66e89b0d6b6e9bd6a484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_fe7c583acffc06761c18a5fd726a1586b73f6fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha9_83f5a01d9158036575b535f5eb5e72312da0229e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_427e9a48237e135dbe34eb838df129c689cf8c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c3432df0680cd2a732275a722f4854f85c658097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_c71ef17e53a7cb39d622260228f3b1726086b076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_736ef76a2ba5add56288ff29af428e05d36f22e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_eadc251f178270259513229a4bca1b48d0a8fffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.github.bhargavms\PodSLider\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="35351c925469425a7558000231b23b97f072eb10">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.github.bhargavms-PodSLider-1.2.0_9d9fe77608a822935248bed99788e2abc57c33ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_5d5497cc9d6f4d9e2d92b99c9c33bf473c4991c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_8c9e6e3718ab8a4183c6bfa0f3c59960e0e9c5d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_3474e67b0242382b9e0ee79df1f009028d960c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_2122a429cf763e84f113f87f27353365c822b6e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_8b72c4856ae99326fc012ae77ea6292b44453c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_40b6478e51f8772e9fd0c3a9f8b5cf70ace34b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_38b20da45625efc6c9314be00f697b800d54d726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_2b886ee979b31a0f51bba479dfeb30869f67e58c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.1_9a3d540692c0a81ec5a8104d4aa9f5b4b9f6ba39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_5a6e87a1d8933adb631fa0884f08a8a80ed748ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dc5287e97338208b036095878957e1bc268f2c98">
+        <dex dex="C:\Users\Trung Duong\Desktop\AndroidStudioProjects\ManagerStack\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2b52bec9e4e4575a73ee245adcc64fe37f550810.jar" />
+    </item>
+
+</items>

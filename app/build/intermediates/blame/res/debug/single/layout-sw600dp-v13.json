@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Trung Duong\\Desktop\\AndroidStudioProjects\\ManagerStack\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\Trung Duong\\Desktop\\AndroidStudioProjects\\ManagerStack\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Trung Duong\\Desktop\\AndroidStudioProjects\\ManagerStack\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Trung Duong\\Desktop\\AndroidStudioProjects\\ManagerStack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]
